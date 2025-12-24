@@ -1,0 +1,418 @@
+00:00:00 Speaker 1
+Allora, dunque, allora ricominciamo, diciamo, riprendiamo il punto della riflessione, se ognuno vuole dire rapidamente l'uso che ha fatto i semplit dal punto di vista delle funzioni e del proprio lavoro. Giusto una battuta, insomma, cominciamo così va, facciamo il giro.
+00:00:20 Speaker 2
+Allora la semplificazione è utile perché spezza i paragrafi troppo lunghi, ad esempio, e nel mio caso mi sembra utile nei bandi, soprattutto perché sono destinati agli studenti.
+00:00:33 Speaker 2
+Quindi se abbiamo frasi più Corte è meglio diciamo, capire i concetti piuttosto che partire da un punto e non sapere dove si va a finire.
+00:00:43 Speaker 2
+Diciamo una un'osservazione che ho fatto sulla sui connettivi difficili perché mi ha individuato quelli che secondo il sistema sono connettivi difficili che non ritengo siano difficili, per esempio.
+00:00:57 Speaker 2
+Invece che a parità di punteggio mi dice se i partecipanti hanno lo stesso punteggio a me non sembrava difficile il concetto.
+00:01:04 Speaker 2
+Pure a seguito di un colloquio individuale, mi dice.
+00:01:09 Speaker 2
+Durante un colloquio individuale.
+00:01:14 Speaker 2
+Sui verbi l'avevo già detto, c'è il il futuro me lo trasforma in presente e non sempre.
+00:01:21 Speaker 2
+Diciamo.
+00:01:23 Speaker 2
+Contestualizzata questa cosa, perché ovviamente la Commissione si riunisce dopo la presentazione delle candidature A graduatoria, viene pubblicata dopo la selezione della partita.
+00:01:39 Speaker 1
+E invece le altre funzionalità?
+00:01:42 Speaker 2
+Utilizzato solo semplifica e poi ho visto i risultati, per esempio quanti token la semplificazione l'ha l'ha fatta tantissimo perché mi ha ridotto anche il numero di parole, quindi in testi molto lunghi come i bandi per esempio Erasmus per studio è utile perché lo studente magari si scoccia di legger 10 pagine di bando.
+00:02:12 Speaker 1
+OK, facciamo quest'altro, questo giro e poi invece sì.
+00:02:16 Speaker 4
+Io ho utilizzato soprattutto la funzione si analizza che esemplifica.
+00:02:22 Speaker 4
+Sì, in realtà mi sono anch'io. Concordo, mi ha semplificato dei testi molto lunghi all'interno delle frasi, magari ha spezzato la frase e poi è partito ripetendo ovviamente il soggetto proprio per.
+00:02:34 Speaker 4
+Fase precedente, ho visto la sostituzione appunto di molti verbi al gerundio con l'infinito e ho trovato anche per esempio la sostituzione di ad esempio anche alcuni alcune parole tipo Assegnazione me l'ha trasformata in assegnare. Forse per l'utente è più semplice, l'utente finale è più semplice.
+00:02:57 Speaker 4
+Forse la comprensione di un di un verbo all'infinito, piuttosto che.
+00:03:01 Speaker 4
+Non so il nome. L'assegnazione in più ho visto che ha ridotto anche in alcuni casi l'utilizzo dei collettivi e ha prediletto l'utilizzo di verbi attivi piuttosto che quelli riflessivi. Al contempo però ho visto che ad esempio proprio in alcune specifiche, quando parliamo proprio in virtù di quello che dicevo poc'anzi, faccio proprio un esempio. Io avevo nel mio testo c'era scritto, visto il regolamento di ateneo per l'amministrazione e la finanza e la contabilità, e lui me le ha semplificato.
+00:03:32 Speaker 4
+Visto il regolamento di ateneo per amministrare finanzia?
+00:03:35 Speaker 4
+Diciamo che in questo caso è proprio il nome di un regolamento, quindi non andava sostituito però poiché lui come abbiamo poc'anzi detto predilige sostituire i nomi con verdi all'infinito, ecco perché si è creato però facilmente, insomma risolvibile. E la coda che invece mi ha fatto riflettere. Io avevo un testo dove c'era scritto dato atto della non esistenza di convenzioni e lui me l'ha trasformato dato atto della mancanza di convenzioni. Io lo trovo molto più comprensibile piuttosto che scrivere una negazione.
+00:04:08 Speaker 4
+Un'affermazione con un verbo che con una con un nome in cui c'è qualcosa che in cui si definisce qualcosa che non esiste effettivamente e poi invece per quanto riguarda invece il caricamento dei file dei documenti li io pensavo che siccome il sistema ha un limite dei 3000 caratteri, sarebbe utile implementarlo con 1 1 funzione di upload del file, quindi caricare completamente.
+00:04:34 Speaker 4
+Word OPDF tanto poi siamo comunque lo produciamo noi quindi andrebbe bene anche in formato DOC e il sistema quindi potrebbe di volta in volta anche se c'è questo limite diciamo prendere una parte dei caratteri, cioè una parte del testo, analizzarlo fino al limite di non so 3000 caratteri come impostato in questo caso e poi di volta in volta diciamo caricarsi tutte le le parti restanti del documento.
+00:04:59 Speaker 4
+Sicuramente ci poteva essere, come abbiamo poc'anzi detto, il problema che.
+00:05:07 Speaker 4
+Stato e ha diciamo. Proprio per ovviare a questo problema si potrebbe insomma implementare con un contatore finale dove ti dice il numero iniziale di caratteri. Diciamo che che costituivano il documento e quindi che sono stati caricati il numero finale di caratteri che sono stati analizzati. Quindi nel momento in cui ci si trova numericamente vuol dire che il diciamo il sistema ha funzionato correttamente.
+00:05:31 Speaker 4
+Questo, nient'altro.
+00:05:33 Speaker 1
+OK.
+00:05:35 Speaker 5
+Allora naturalmente i test utilizzati, come avrete capito siamo dello stesso settore, sono i medesimi e quindi anch'io la prima prima preoccupazione sta lavorando a stretto contatto con gli studenti, quindi, occupandomi delle mobilità outing degli studenti italiani in partenza. Mi sono preoccupata del bando, a questo punto posso fare una riflessione e dire ho sbagliato perché? Perché io invio moltissime.
+00:06:01 Speaker 5
+Nel nelle quali do indicazioni per come si articola poi la mobilità ai passi da seguire ed altro. E forse avrei potuto inserire, mi riprometto di farlo anche le stesse comunicazioni che sembrano comunicazioni tra virgolette banali, in verità forse sono proprio quelle che.
+00:06:21 Speaker 5
+Più importanti per l'utenza che per la mia utenza, per l'utenza del del mio ufficio, del settore. Quindi con questa premessa di una mancanza di.
+00:06:30 Speaker 5
+E per quanto riguarda i bandi? Mi allineo con quello che hanno detto i miei colleghi ed effettivamente la cosa che in particolare ho visto mi è stata più utile. Io appartengo alla schiera del sì, OK, va benissimo con una revisione.
+00:06:47 Speaker 5
+Perché il confrontare i due testi tra il primo e il dopo io l'ho trovato la la cosa più utile per quanto mi riguarda, uno per dei suggerimenti che ho che sicuramente potrò adottare nel rendere più fruibile.
+00:07:01 Speaker 5
+Il bando la maggior parte.
+00:07:04 Speaker 5
+Del della nostra utenza, ma non solo, perché molto spesso entrano in campo anche i genitori che vogliono capire cosa vanno a fare i figli sono preoccupati per degli aspetti e quindi diciamo che non è un'utenza solo di futuri laureati e quindi di ragazze insomma, che si presuppone abbiano una certa scolarizzazione, quindi può essere un varimento. Però siccome io sono un'amante del bello scrivere avendo una formazione prettamente.
+00:07:32 Speaker 5
+Che viene appunto dal dalle lettere, preferisco fare sempre un confronto per non banalizzare quello che pur essendo un testo amministrativo e quindi che deve essere fruibile, secondo me deve avere anche 1 1 sua dignità stilistica. È una mia personalissima opinione. Vabbè, deformazione, mettiamola così.
+00:07:53 Speaker 6
+Elegante anche, ha una certa eleganza. Sì, allora i miei.
+00:07:56 Speaker 5
+E le gambe? Sì, elegante.
+00:08:00 Speaker 6
+Mari finali sono i futuri insegnanti per cui dovrebbero saper leggere professoressa.
+00:08:06 Speaker 6
+Ripartiamo da da questa, partiamo da questa. Ahimè, ahimè, perché effettivamente noi ci confrontiamo spesso. Quando quando pubblichiamo il bando io sto in segreteria studenti, mi occupo di formazione insegnanti Barbara covelli, quindi ogni tanto le ho scritto. Perciò mi presento perché magari ci siamo scritte ma non sapeva.
+00:08:20 Speaker 1
+Se iniziano i nomi io, infatti gli essi sono noti nomi collegio.
+00:08:28 Speaker 6
+Ci fossi, ho utilizzato anch'io la la funzione esemplifica in particolare. Però poi mi sono anche resa conto che già nella struttura che diamo attualmente ai contenuti dei nostri bandi non non sono eccessivamente complessi, anche proprio per una indicazione che ci viene anche dalla nostra responsabile, la dottoressa Cefaratti. Quindi cerchiamo di scrivere. Insomma, in maniera abbastanza comprensibile, è chiaro che.
+00:08:57 Speaker 6
+Ci sono state delle migliorie, come dicevano le colleghe?
+00:09:00 Speaker 6
+Quindi non mi ripeto, a volte noi ci siamo messi proprio in discussione, anche prima di aderire a questa, a questa, a questo progetto di come scrivere meglio perché ci rendiamo conto che le persone non capiscono. Però siamo arrivati anche alla conclusione che non è come scriviamo noi e che ecco, dividere le frasi. Facciamo frasi più, ma questo lo facciamo già da un po di tempo non fare.
+00:09:25 Speaker 6
+Le frasi lunghe, lunghe, quindi sì.
+00:09:27 Speaker 5
+Principe.
+00:09:29 Speaker 6
+Punto e.
+00:09:30 Speaker 6
+Senza.
+00:09:31 Speaker 6
+Frasi troppo complesse, quindi sì, lo strumento sicuramente è utile e ho anche commentato che lo riutilizzerò perché siamo riusciti poi a utilizzarlo anche poco insomma in in questo periodo, quindi l'ho trovato sicuramente utile. Io poi sono laureata in lingue, per cui mi è piaciuto anche andare a guardare un po. Insomma, il token, la linguistica, il verbo, il passivo, l'attivo. Quindi è piaciuta anche quella parte lì più legata alla linguistica?
+00:09:58 Speaker 1
+Anzi.
+00:09:58 Speaker 1
+Posso dire effettivamente riflettevo ed è utilissimo questo scambio. Vi ringrazio di.
+00:10:04 Speaker 1
+Cari di suo tempo era viste altre scadenze.
+00:10:06 Speaker 1
+Ufficio.
+00:10:08 Speaker 1
+Che se poi lo dovessimo veramente portare in altre pubbliche amministrazioni, in realtà l'università per sua missione vocazione è un po didattica, cioè tutti ci poniamo il problema di questo atteggiamento educativo formativo. Forse i diciamo i nodi al pettine maggiore, quindi già scrivere in un modo.
+00:10:20 Speaker 6
+Cioè, certo.
+00:10:31 Speaker 1
+Bile, usiamo anche questo concetto, mi sa che quegli ossi duri saranno le amministrazioni pubbliche dei comuni delle cioè le regioni.
+00:10:33 Speaker 6
+Sì.
+00:10:38 Speaker 7
+Si si l'Orange fu dimagrato in giù la tangenziale.
+00:10:43 Speaker 1
+Come? Non solo, non c'hanno questa missione educativa verso il cittadino.
+00:10:49 Speaker 1
+Alcuni non so le competenze di chi fa le varie cose e poi in alcuni casi diciamo che l'essere oscuri quasi quasi è un po.
+00:10:52 Speaker 6
+Accetto anche anche.
+00:11:03 Speaker 1
+L'Italia a.
+00:11:03 Speaker 6
+A volte anche nei bandi che facciamo noi c'è sempre quella quel cioè dobbiamo lasciarci lo spazio per alcune manovre poi.
+00:11:05 Speaker 1
+E non perché non si vuole, non si può.
+00:11:10 Speaker 1
+Del margine e quindi tutte queste, quindi sarà interessante vedere se arriviamo in altre amministrazioni faremo una struttura di progetto simile, il Focus Group, poi al bar vi racconterò se altrimenti generale, cioè CE.
+00:11:26 Speaker 8
+Lo racconteremo anche.
+00:11:26 Speaker 5
+Cosa cosa Consiglio?
+00:11:27 Speaker 1
+Se faremo altra sperimentazione come andrà a finire? Però veramente sì, cioè si aprono.
+00:11:35 Speaker 1
+Di, di riflessioni, di considerazioni, insomma, almeno per me, utilissime.
+00:11:42 Speaker 9
+Uh, dunque io l'ho usato per me, nel senso che vengo da un'altra tipologia di ufficio e sono da pochissimo tempo in un ufficio nuovo di non mi occupavo de delle stesse cose prima, per cui avendo tante informazioni tra cui io sono quella.
+00:12:00 Speaker 9
+Ha scritto che ha analizzato una parte di decreto ministeriale, avendo tante informazioni nuove tutte insieme.
+00:12:07 Speaker 9
+Caricando insomma un testo, infatti, troverei utile il fatto di caricare.
+00:12:13 Speaker 5
+Sì.
+00:12:16 Speaker 9
+Risparmio tempo e concentrazione praticamente ho risparmiato tempo e concentrazione nell'andare a, diciamo avere.
+00:12:24 Speaker 9
+Più informazioni in un in un breve.
+00:12:29 Speaker 9
+Nel minore tempo.
+00:12:30 Speaker 9
+Più comprensibili perché, cioè la concentrazione.
+00:12:32 Speaker 1
+Ah, quindi per leggere i documenti che mi interessavano, se ho capito bene, ma non lo so scrivere.
+00:12:35 Speaker 9
+Sì, sì, esatto, da.
+00:12:38 Speaker 9
+Non da scrivere, esatto.
+00:12:40 Speaker 1
+Questa è un'altra funzionalità che uno può.
+00:12:43 Speaker 9
+Per studiare troppe cose insieme velocemente, diciamo che poi la concentrazione quindi l'ho utilizzato per questo e.
+00:12:50 Speaker 1
+Sì, dottoressa, seguirlo allora? Non so li volete? Lo volevamo rendere anonima, ma in realtà è che trascrillerò le considerazioni resta qua. Non è che allora io ho utilizzato oltre tre?
+00:12:52 Speaker 9
+L'ho trovato utile sinceramente.
+00:13:04 Speaker 9
+Che poi stavano all'ufficio di basket, quindi brillando, che chi parte che non.
+00:13:08 Speaker 9
+C'entra proprio le basi?
+00:13:08 Speaker 8
+Funzioni le due che ritengo più utili, come ho già detto quasi al pari sono sia semplificate confronto.
+00:13:17 Speaker 8
+La funzione analizza, come detto, l'ho utilizzata più che altro per me, nel senso per diciamo capire poi quali possono essere i tra virgolette gli errori.
+00:13:29 Speaker 8
+E cambiare proprio l'ottica su come come semplificare.
+00:13:35 Speaker 8
+Fine a Monte, la funzione semplifica, il confronto è arrivato, sono quelle che trovo più utili. Il confronta, tra l'altro, serve anche proprio per andare a risolvere quella questione che diceva Valentina, cioè laddove manca un la possibilità di caricare un testo completo e quindi di consentire alla alla piattaforma diciamo di mantenere le connessioni tra le varie parti del testo. Il fatto di avere.
+00:14:03 Speaker 8
+Serve proprio per evitare di perdere magari dei pezzi che non sono non sono stati semplificati.
+00:14:10 Speaker 8
+Anche io la cosa che rilevo diciamo come limite è proprio questo discorso dei 3000 caratteri. Quindi l'unica implementazione che considererei è proprio quello di caricare un testo. Però è uno strumento utile. Io a differenza degli altri non ho un'utenza esterna in quello che è il mio lavoro.
+00:14:27 Speaker 5
+Vero, tu hai anche farsi noi.
+00:14:29 Speaker 6
+Io.
+00:14:32 Speaker 8
+Persone che come strutture, quindi la dove carico dei bandi ovviamente sono dei.
+00:14:36 Speaker 8
+Danni interni destinati ai colleghi oppure se sono determinano decreti sono diciamo destinati agli uffici per dare seguito ad altre fasi del procedimento. Però mi rendo conto anche io poi nel momento in cui si risponde a dei bandi o si danno delle indicazioni agli uffici, che in realtà probabilmente non sono io diciamo semplice a Monte e quindi è utile anche come strumento.
+00:15:02 Speaker 8
+Di comunicazione interna? Assolutamente. Per semplificare, molte volte siamo talmente tanto abituati al burocratese di utilizzarlo anche poi negli atti nostri interni. Invece no, è proprio 1 1 cambiamento mentale che ci dovrebbe essere, cioè oggi come oggi in una serie di espressioni. Insomma, non non servono più, sono disponite assolutamente superate. Se ne può fare a meno tranquillamente la funzione didattica.
+00:15:16
+Giusto.
+00:15:28 Speaker 8
+Invece per quanto riguarda l'esterno.
+00:15:32 Speaker 8
+Deve comunque essere mantenuta.
+00:15:35 Speaker 8
+Semplificare sì, però senza perdere. Diciamo il punto sul fatto che siamo un'istituzione che fa cultura e quindi anche magari aggiungere quella parolina in più che serve per insegnare un linguaggio un pochino diverso, però senza, come dire, rimanere distaccato.
+00:15:55 Speaker 5
+Cioè una cosa è il linguaggio burocratico.
+00:15:58 Speaker 5
+Cosiddetto burocratese.
+00:15:58 Speaker 8
+Sì.
+00:16:00 Speaker 5
+È terribile quei quel quelle oddio cioè proprio quelle frasi che ci rimandano a al passato. Ma una cosa è scrivere bene perché noi siamo università, dobbiamo dare l'esempio. Se noi per prime mandiamo delle.
+00:16:06 Speaker 8
+Si al.
+00:16:18 Speaker 4
+Comunica sono.
+00:16:18 Speaker 5
+Comunicazioni che siano povere, che non siano, che siano banali, che siano. Non lo so, riduttive, secondo me si perde proprio il senso dell'Istituzione. Noi siamo università e quindi come tali dobbiamo essere chiare. Dobbiamo essere.
+00:16:34 Speaker 5
+Dobbiamo avere questo, questo, sicuramente, questa. Attenzione, però rimaniamo un'istituzione dove si fa innanzitutto.
+00:16:43 Speaker 5
+Però questo è.
+00:16:44 Speaker 1
+Voi avete trovato delle certificazioni che andavano troppo lontano da questo senso? La cultura questo volevo come con confusione.
+00:16:52 Speaker 5
+Che banalizzavano a volte sì, personalmente vai, però rispetto a.
+00:16:54 Speaker 1
+A volte, a parte che l'errore di banane, cioè di andare a trasformarla, diciamo sei certo cerchialmente.
+00:16:59 Speaker 6
+Sì, lì era in beh, regolamento.
+00:17:01 Speaker 5
+Il regolamento a nome preciso sì, ma anche anche per alcuni documenti tecnici. Noi usiamo.
+00:17:07 Speaker 5
+Fatto le parole in inglese application teach trainership.
+00:17:10 Speaker 5
+Scritto.
+00:17:13 Speaker 5
+Certificate of stay.
+00:17:17 Speaker 4
+Praticamente non lo ha cambiato.
+00:17:19
+Alcune.
+00:17:19 Speaker 1
+Straniere, si può decidere?
+00:17:19 Speaker 4
+Però mi ha cambiato, per esempio io avevo insegnamento nel testo originale Teaching e lui mi ha mi ha modificato insegnare teaching.
+00:17:30 Speaker 4
+Me l'ha lasciato sempre.
+00:17:30 Speaker 7
+Allor sing.
+00:17:32 Speaker 4
+Ah, l'inglese me l'ha lasciato, però mi ha cambiato l'italiano invece di insegnamento.
+00:17:32 Speaker 7
+Come ce ne ha messo?
+00:17:37 Speaker 6
+Messo il verbo.
+00:17:39 Speaker 7
+Cioè.
+00:17:39 Speaker 1
+Com'è il testo finale? Non so se c'ha tutto l'esempio mo giusto per capire come, come, per capire cosa fa la macchina, diciamo.
+00:17:48 Speaker 4
+No, qui mi ha cambiato soltanto io da insegnamento e tra parentesi c'era teaching. Lui ha la ha modificato insegnare e mi ha lasciato sempre teaching. Però poi tutto il resto l'ha lasciato invariato.
+00:17:59 Speaker 1
+No, e come risulta la frase, cioè tutta la finale.
+00:18:03 Speaker 4
+No, erano degli era un elenco puntato, quindi.
+00:18:05 Speaker 1
+Ah, OK, insegnamento.
+00:18:07 Speaker 4
+Esatto, combinato con formazione definite come esegue quindi un elenco puntato di attività dice insegnamento?
+00:18:08 Speaker 1
+Qual.
+00:18:09 Speaker 3
+È.
+00:18:14 Speaker 1
+Insegnare e non.
+00:18:16 Speaker 5
+Ricordo, ma ad esempio mi sembra che.
+00:18:16 Speaker 4
+E nell'assegnare.
+00:18:18 Speaker 5
+E gate of stay mi ha cambiato certificate e me l'ha messo certificato.
+00:18:24 Speaker 5
+Anche se forse non era virgoletta, no, era solo in neretto. Forse col virgolettato sì.
+00:18:32 Speaker 5
+Si lo prende diversamente, ma invece no, era solo in.
+00:18:36 Speaker 5
+In eretto, come mi fa?
+00:18:37 Speaker 8
+Io vabbè, cioè noi come utenza, magari rispetto a un comune, il comune.
+00:18:41 Speaker 8
+Molto più basta cultura economica e quindi bisogna mantenersi, diciamo un po più aperti. Però alla fine gli studenti che iniziano l'università o che frequentano l'università dovrebbero fare quel saltino a libro che gli serve. Diciamo poi per quello che sarà.
+00:19:01 Speaker 8
+Mantenere quel.
+00:19:02 Speaker 8
+Minimo, secondo me ci deve essere.
+00:19:04 Speaker 1
+Una domanda mi sa proprio complicazioni in generale nei vostri, cioè esiste? Avete l'abitudine di mettere le cosiddette free con free asked questions, cioè semplificare non i documenti in sé, ma le prassi, quelle magari in un modo più discorsivo. Esiste come abitudine edifici?
+00:19:23 Speaker 6
+Non le facciamo le fatte.
+00:19:25 Speaker 4
+Di solito gli diamo anche dei tutorial che non fa a corredo con degli screenshot della della piattaforma con il testo sia in italiano che in inglese.
+00:19:30 Speaker 3
+Con.
+00:19:31 Speaker 6
+Facciamo.
+00:19:35 Speaker 4
+Se step by step, cosa devono fare?
+00:19:36 Speaker 1
+Quindi fate un sacco, ci sono un sacco di strumenti per l'accessibilità.
+00:19:38 Speaker 4
+Sì, e nonostante tutto, nonostante tutto.
+00:19:41 Speaker 6
+Lo facciamo anche noi, manuale proprio.
+00:19:46 Speaker 6
+Foto che cosa devi fare? Foto, che cosa ho?
+00:19:48 Speaker 9
+E anche lì c'è difficoltà, ma non leggono? No, non leggono proprio no, non leggono. Quanti crediti devo fare all'estero per non perdere la borsa di studio?
+00:19:49 Speaker 4
+Detto step by Step, cosa l'ha fatto? E nonostante tutto? Ma ci sono errori o che vengono l'invio dell'inella riceviamo delle email chiarifica insomma che voi.
+00:20:04 Speaker 1
+Lo spenderli sì, questo perché appunto non si legge, e quindi?
+00:20:05 Speaker 9
+A Benevento, almeno sanno, stavo quello ufficio per poco tempo e nel posto.
+00:20:10 Speaker 4
+Esatto, per esempio con lei.
+00:20:10 Speaker 2
+Laurea, mi hanno messo.
+00:20:11 Speaker 8
+È un cane che si muore.
+00:20:12 Speaker 4
+Diciamo come gli dico quando si compilo negativi, come inserire il codice di cileca dell'insegnamento quando c'è?
+00:20:13 Speaker 9
+Anna e 50 sono stata poco tempo nello rifugio Erasmus, quanti crediti devo prendere per non perdere la borsa?
+00:20:20 Speaker 5
+Scritto chiaramente, chiaramente.
+00:20:20 Speaker 9
+Meglio.
+00:20:20 Speaker 9
+Io sono là, quello.
+00:20:21 Speaker 10
+È una cosa tipo, perché andare a leggere almeno quella riguardo i soldi? Dai, la prima cosa da andare a.
+00:20:30 Speaker 4
+Leggere quindi i documenti ci ci ci giungono incompleti.
+00:20:35 Speaker 4
+Ed cade sui tempi.
+00:20:37 Speaker 5
+Ma no.
+00:20:37 Speaker 4
+Lavoro.
+00:20:37 Speaker 5
+Poi ti scrivono per richiederti. Infatti ora stavo confrontando con la collega che.
+00:20:40 Speaker 9
+Stavo dicendo la l'unica cosa che ti dovevi le almeno quella. Quella che riguarda i soldi. Quanti crediti devo prendere all'estero per non perdere la borsa di studio? Non me lo puoi chiedere, quello almeno lo dovevi leggere nel bando. Quello tu guardi i soldi, sì, almeno i tuoi interessi.
+00:20:54 Speaker 1
+Quindi.
+00:20:56 Speaker 5
+No, ma loro rape te lo chiedono, perché non lo leggono quindi?
+00:20:59 Speaker 5
+Rischio per chiedertelo?
+00:21:02 Speaker 1
+Molte persone non.
+00:21:03 Speaker 1
+Sono fiducia nella capacità di comprensione e l'ansia, cioè leggono.
+00:21:06 Speaker 8
+Anche.
+00:21:09 Speaker 1
+Non sanno se è andata più bene e non hanno più figli, mentre anche vengono per avere la sicurezza dalla voce, cioè si è ritornati alla voce perché non si fidano più delle proprie competenze di comprensione e di lettura.
+00:21:11 Speaker 5
+Chiedono conferma, ci sono?
+00:21:13 Speaker 5
+Rudero.
+00:21:15 Speaker 7
+È vero?
+00:21:21 Speaker 4
+Sì, sì, sì, sì, sì.
+00:21:25 Speaker 9
+Qui sconvolgente.
+00:21:25 Speaker 5
+Sono soprattutto i ragazzi che fanno parte dell'area umanistica. Io ho tutte le ragazze dell'area umanistica, tutte così sono, mi scusi dottoressa ma sono ansiosa, ho notato questo questo particolare. Invece i ragazzi no, no sono ansiose, hanno l'ansia di capire bene, si pongono il problema diversamente a livello maschile.
+00:21:36 Speaker 3
+Vai alla pagina iniziale.
+00:21:40 Speaker 1
+Cioè capisco nemmeno gli altri.
+00:21:44 Speaker 7
+Francesi Rossi.
+00:21:50 Speaker 7
+Non ho notato e soprattutto di di alcuni diciamo va bene l'ultima domanda, l'ultimo minuto volevo.
+00:21:52 Speaker 1
+E quindi una differenza.
+00:21:53 Speaker 7
+Ma abbiamo una.
+00:21:57 Speaker 1
+Attimo, devo chiedere, da questa, diciamo anche da questa sperimentazione, da questo?
+00:22:02 Speaker 1
+C'è qualcosa, io non è che chissà che voglio proporre neanche elettorato né alla Direzione generale. Però se c'è un'idea di qualcosa che si potrebbe fare anche al di là del semplice in termini di qualità del dello scrivere eccetera, io magari una relazione finale la voglio mandare sia al al dottor Barbieri che a Giacomo verde che ci aveva seduti all'inizio e insomma e al rettore per raccontare un po questa.
+00:22:26 Speaker 8
+Certo.
+00:22:31 Speaker 1
+C'è qualche spunto che volete lanciarmi da rielaborare di richieste eventualmente di formazione da fare in ateneo, sennò?
+00:22:39 Speaker 1
+Non è.
+00:22:40 Speaker 1
+Ci tengo praticamente sì, assolutamente.
+00:22:42 Speaker 9
+Usare il burocratese, perlomeno tra i colleghi.
+00:22:47 Speaker 1
+Sì, vabbè, facciamo 1, 1 specie di un comizio. O potrebbe esserlo.
+00:22:53 Speaker 9
+Di formazione, io lo trovo molto utile per per alcuni colleghi.
+00:22:56 Speaker 1
+Grazie e arrivederci.
+00:22:59 Speaker 1
+Per molti colleghi lo dico io.
+00:23:00 Speaker 9
+Che non hanno.
+00:23:02 Speaker 1
+Persone spingere il più per te. Forse io quello che potrei fare a livello generale, perché io poi non mi permetto, potrei dire che sono emerse.
+00:23:13 Speaker 6
+Beh.
+
+
+
+

@@ -20,8 +20,14 @@ pip install -r requirements.txt
 
 
 ## Replication Package Content
-- `1_filter.py`:
-- `2_metrics_extractor.py`:
+* `assets`: folder that contains the experimental corpora in `.csv` format
+* `filtered`: folder that contains the filtered experimental corpora in `.xlsx` format.
+* `metrics`: folder that contains the metrics extracted from filtered experimental corpora in `.csv` and `.json` format.
+* `1_filter.py`: script to filter the experimental corpora.
+* `2_metrics_extractor.py`: script to extract metrics from the filtered experimental corpora. It employs [italian-ats-evaluator](https://github.com/RedHitMark/italian-ats-evaluator).
+* `3_1_metrics_text.ipynb`, `3_2_metrics_comparison.ipynb` and `3_3_metrics_simplification.ipynb`: jupyter notebook used to analyze the metrics extracted from the filtered experimental corpora.
+* `4_1_analysis_text.ipynb`, `4_2_analysis_comparison.ipynb` and `4_3_analysis_simplification.ipynb`: jupyter notebook used to analyze the results.
+* `focus_group`: folder that contains the files related to the focus group activity.
 
 
 ## Acknowledgements

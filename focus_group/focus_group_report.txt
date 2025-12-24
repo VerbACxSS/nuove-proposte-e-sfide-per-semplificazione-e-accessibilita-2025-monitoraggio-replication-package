@@ -1,0 +1,27 @@
+Il focus group ha coinvolto personale amministrativo universitario, principalmente di uffici che si interfacciano con gli studenti (mobilità internazionale, segreterie studenti, etc.).
+
+Utilizzo dello strumento:
+•  La funzione più utilizzata è stata "semplifica", seguita da "confronta" e "analizza"
+•  Lo strumento è stato testato principalmente su bandi e comunicazioni agli studenti
+•  Il limite dei 3000 caratteri è stato identificato come criticità
+
+Punti di forza:
+•  Capacità di spezzare periodi troppo lunghi
+•  Riduzione della lunghezza complessiva dei testi
+•  Trasformazione di forme passive in attive
+•  Utilità del confronto tra versione originale e semplificata
+
+Criticità emerse:
+•  Alcune semplificazioni eccessive o inappropriate (es. nomi di regolamenti)
+•  Gestione non ottimale di termini tecnici e in lingua straniera
+•  Rischio di eccessiva banalizzazione del linguaggio
+
+Considerazioni generali:
+•  Necessità di bilanciare semplificazione e mantenimento del registro istituzionale
+•  Importanza del ruolo educativo dell'università nella comunicazione
+•  Persistenza di problemi di comprensione da parte dell'utenza nonostante gli sforzi di semplificazione
+
+SUGGERIMENTI
+•  Implementare la possibilità di caricare file completi
+•  Organizzare formazione specifica sul linguaggio amministrativo per il personale
+•  Mantenere un equilibrio tra accessibilità e dignità stilistica dei testi
