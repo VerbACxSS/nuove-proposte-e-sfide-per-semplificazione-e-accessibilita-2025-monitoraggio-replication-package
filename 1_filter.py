@@ -11,9 +11,7 @@ df['date'] = df['datetime'].dt.date
 
 # Filter rows by date
 df = df[df['datetime'] >= '2025-03-28']
-
-# Filter rows by participant_id
-df = df[df['participant_id'] != 'Giuliana Fiorentino']
+df = df[df['datetime'] <= '2025-05-22']
 
 # Save the filtered DataFrame to a new Excel file
 df.to_excel('filtered/text.xlsx', index=False)
@@ -30,9 +28,7 @@ df['date'] = df['datetime'].dt.date
 
 # Filter rows by date
 df = df[df['datetime'] >= '2025-03-28']
-
-# Filter rows by participant_id
-df = df[df['participant_id'] != 'Giuliana Fiorentino']
+df = df[df['datetime'] <= '2025-05-22']
 
 # Save the filtered DataFrame to a new Excel file
 df.to_excel('filtered/comparison.xlsx', index=False)
@@ -49,9 +45,7 @@ df['date'] = df['datetime'].dt.date
 
 # Filter rows by date
 df = df[df['datetime'] >= '2025-03-28']
-
-# Filter rows by participant_id
-df = df[df['participant_id'] != 'Giuliana Fiorentino']
+df = df[df['datetime'] <= '2025-05-22']
 
 # Save the filtered DataFrame to a new Excel file
 df.to_excel('filtered/simplification.xlsx', index=False)

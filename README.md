@@ -3,7 +3,7 @@ Giuliana Fiorentino, Marco Russodivito
 
 
 ## Abstract
-In questo contributo presentiamo i risultati di una sperimentazione che è stata condotta nell'università degli studi del Molise mettendo a disposizione del personale tecnico amministrativo il software SEMPL-IT. Durante un mese circa di sperimentazione il software è stato messo a disposizione degli utenti dopo un incontro iniziale in una giornata di training durante il quale è stato illustrato il suo utilizzo e sono stati fatti valutare limiti e vantaggi del software. All'esito della sperimentazione - che è stata monitorata da un punto di vista quantitativo (misurazione del numero di utilizzi e archiviazione dei materiali caricati dal personale tecnico amministrativo dell'università) - è stato somministrato un questionario di valutazione dell'attività di utilizzo del software. Successivamente in un incontro finale del processo di sperimentazione il personale che ha partecipato alla sperimentazione è stato intervistato durante un'attività di focus Group. Illustreremo quindi ai partecipanti al convegno le valutazioni e le opinioni che il gruppo sperimentale ha espresso nei confronti del software e delle semplificazioni automatiche che esso consente di realizzare.
+Il contributo presenta i risultati preliminari sull’uso di SEMPL-IT, uno strumento basato sull’Intelligenza Artificiale per la semplificazione automatica di testi amministrativi italiani, sviluppato nell’ambito del progetto PRIN VerbACxSS. La sperimentazione, articolata in tre fasi (formazione iniziale, utilizzo autonomo e valutazione finale), ha coinvolto un gruppo di dipendenti tecnico-amministrativi dell’Università degli Studi del Molise, invitati a utilizzare SEMPL-IT per quattro settimane durante le normali attività lavorative. Ciò ha permesso di analizzare l’usabilità del sistema, i benefici percepiti, le criticità emerse e le modalità di integrazione dello strumento nei processi di redazione amministrativa. I risultati evidenziano una valutazione complessivamente positiva di SEMPL-IT. Lo strumento è stato apprezzato sia come supporto iniziale alla semplificazione linguistica, sia come mezzo per migliorare la leggibilità dei testi. Tuttavia, rimane centrale il ruolo del controllo umano, soprattutto nei passaggi caratterizzati da maggiore densità tecnico-giuridica. L’analisi conferma che SEMPL-IT non è percepito come un sostituto della competenza redazionale, ma come uno strumento di supporto in grado di stimolare una maggiore consapevolezza linguistica e favorire pratiche di scrittura amministrativa più chiare, accessibili e orientate al destinatario.
 
 
 ## Setup
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 * `1_filter.py`: script to filter the experimental corpora.
 * `2_metrics_extractor.py`: script to extract metrics from the filtered experimental corpora. It employs [italian-ats-evaluator](https://github.com/RedHitMark/italian-ats-evaluator).
 * `3_1_metrics_text.ipynb`, `3_2_metrics_comparison.ipynb` and `3_3_metrics_simplification.ipynb`: jupyter notebook used to analyze the metrics extracted from the filtered experimental corpora.
-* `4_1_analysis_text.ipynb`, `4_2_analysis_comparison.ipynb` and `4_3_analysis_simplification.ipynb`: jupyter notebook used to analyze the results.
+* `4_1_analysis_feature.ipynb`, `4_2_analysis_text.ipynb`, `4_3_analysis_comparison.ipynb` and `4_4_analysis_simplification.ipynb`: jupyter notebook used to analyze the results.
 * `focus_group`: folder that contains the files related to the focus group activity.
 
 
